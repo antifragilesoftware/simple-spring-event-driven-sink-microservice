@@ -1,0 +1,1 @@
+# simple-spring-event-driven-sink-microservice
